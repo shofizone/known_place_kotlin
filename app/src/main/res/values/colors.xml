@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="primaryColor">#111d5e</color>
+    <color name="primaryLightColor">#45448c</color>
+    <color name="primaryNightColor">#000034</color>
+    <color name="secondaryColor">#c60038</color>
+    <color name="secondaryLightColor">#ff4f62</color>
+    <color name="secondaryNightColor">#8d0013</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#080808</color>
+    <color name="textColorLight">#080808</color>
+    <color name="textColorNight">#ffffff</color>
+
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#9AA2AF</color>
+
+    <color name="button_background_color">#63ace5</color>
+
+</resources>
